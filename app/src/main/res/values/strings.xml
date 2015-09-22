@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Imooc-mooo</string>
+
+    <string name="xiaomu">小慕</string>
+    <string name="title_activity_set_name">SetNameActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
